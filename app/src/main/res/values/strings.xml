@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Markup</string>
+    <string name="FIO">Skrebets Ekaterina Anatolievna</string>
+    <string name="SPECIALITY">Mathematical and Information technology software</string>
+    <string name="NUMBER_OF_GROUP">Group 05</string>
+    <string name="VERTICAL">Portrait view</string>
+    <string name="HORIZONTAL">Landscape view</string>
+</resources>

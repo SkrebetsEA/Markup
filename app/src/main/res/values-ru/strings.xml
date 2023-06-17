@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Разметка</string>
+    <string name="FIO">Скребец Екатерина Анатольевна</string>
+    <string name="SPECIALITY">Математическое и программное обеспечение информационных технологий</string>
+    <string name="NUMBER_OF_GROUP">Группа 05</string>
+    <string name="VERTICAL">Вертикальное представление</string>
+    <string name="HORIZONTAL">Горизонтальное представление</string>
+</resources>
